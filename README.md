@@ -1,3 +1,3 @@
 # first_flask_server
 
-my test readme
+my first flask server project
